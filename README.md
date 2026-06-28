@@ -294,5 +294,5 @@ terraform destroy
 
 ## Author
 
-**Oluwaseun** — DevOps Engineering Assessment, StartupTech  
+**Oluwaseun** — DevOps Engineering Assessment, Techstartup  
 GitHub: [SeunDeve](https://github.com/SeunDeve)
